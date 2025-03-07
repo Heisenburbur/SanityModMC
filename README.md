@@ -41,5 +41,12 @@ This mod is designed to create a psychological horror experience in Minecraft. S
 
 ⚠ Seizure Warning: This mod contains flashing visuals, screen distortions, and other effects that may trigger seizures for players with photosensitive epilepsy. Player discretion is advised.
 
-Will you survive the descent into madness, or will you be lost to The Hollowing?
+Legal Notice
 
+The Hollowing is the intellectual property of Heisenburbur, the sole developer and owner of this mod and its code. Any unauthorized reproduction, distribution, or modification of this mod without explicit permission is strictly prohibited. Legal action will be taken against individuals or entities attempting to steal, claim, or redistribute this work without consent.
+
+Copyright Notice
+
+© 2024 Heisenburbur. All rights reserved. This software and its associated content, including but not limited to code, assets, and documentation, are the exclusive property of Heisenburbur. Unauthorized use, reproduction, or distribution of this mod is strictly prohibited.
+
+Will you survive the descent into madness, or will you be lost to The Hollowing?
