@@ -1,12 +1,45 @@
 # SanityModMC
-Darkness is no longer just an absence of light—it’s a force that erodes your mind.
+The Hollowing – A Descent Into Madness
 
-The Hollowing mod introduces a sanity system that makes survival in Minecraft a psychological challenge. As night falls or you linger in the shadows, your sanity begins to decay, warping your perception and summoning hallucinations. If you let it drop too low, reality itself might break… or worse, you might never wake up.
+About the Mod
+
+The Hollowing is a psychological survival horror mod for Minecraft that introduces a Sanity System, making darkness a true threat. As night falls or shadows consume your surroundings, your sanity begins to decay, leading to hallucinations, eerie whispers, and the risk of losing yourself to madness. If you let your sanity drop too low, reality itself may break apart—or worse, you may never wake up.
 
 Features:
-🌑 Sanity Mechanic – Stay in the dark too long, and your sanity crumbles, leading to hallucinations, eerie whispers, and even death.
-👁 Distorted Reality – See phantom mobs and hear disturbing sounds as you teeter on the edge of madness.
-🧟 Enhanced Mobs – Zombies are stronger, more relentless, and will hunt you down with new vigor.
-🩸 Injury System – Severe damage can cause broken bones and bleeding, making survival even deadlier.
-🕰 Extended Nights – The darkness lingers longer than usual, forcing you to confront your fears.
-🍯 Sanity Restoration – Recover your mind with Golden Apples, Honey Bottles, and the special Sanity Potion (crafted with a Glass Bottle, Golden Apple, and Golden Carrot).
+
+🌑 Sanity Mechanic – Darkness eats away at your mind, causing terrifying effects.
+
+👁 Distorted Reality – Phantom mobs, strange sounds, and shifting perceptions await.
+
+🧟 Enhanced Mobs – Zombies and other creatures are deadlier and more relentless.
+
+🩸 Injury System – Broken bones and bleeding add to the survival challenge.
+
+🕰 Extended Nights – Nights are longer, making the darkness even more dangerous.
+
+🍯 Sanity Restoration – Regain sanity with Golden Apples, Honey Bottles, and the special Sanity Potion.
+
+Installation
+
+Download the latest version of The Hollowing from the appropriate source.
+
+Install Forge or Fabric, depending on your preferred modloader.
+
+Place the mod .jar file into your Minecraft mods folder.
+
+Launch the game and prepare to confront the darkness.
+
+Support & Feedback
+
+☕ Support the Development: If you enjoy this mod and want to support further updates, you can donate at Buy Me a Coffee.
+
+🐞 Report Issues: Found a bug or need help? Report any issues at GitHub Issues.
+
+Disclaimer
+
+This mod is designed to create a psychological horror experience in Minecraft. Some effects may be unsettling—proceed with caution.
+
+⚠ Seizure Warning: This mod contains flashing visuals, screen distortions, and other effects that may trigger seizures for players with photosensitive epilepsy. Player discretion is advised.
+
+Will you survive the descent into madness, or will you be lost to The Hollowing?
+
