@@ -47,5 +47,5 @@ Version Compatibility: Users should always run the latest version of the mod to 
 While we strive to provide a secure and stable mod, users install and use The Hollowing at their own risk. We are not responsible for issues caused by third-party modifications, external downloads, or misuse.
 
 
-8.Legal Notice
+8. Legal Notice
 The Hollowing is the intellectual property of Heisenburbur, the sole developer and owner of this mod and its code. Any unauthorized reproduction, distribution, or modification of this mod without explicit permission is strictly prohibited. Legal action will be taken against individuals or entities attempting to steal, claim, or redistribute this work without consent.
